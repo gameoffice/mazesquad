@@ -1,4 +1,4 @@
-# mazesquad
+<h1>Maze Squad</h1>
 
 <h1>Privacy Policy</h1>
 
@@ -6,9 +6,9 @@
 <p>Effective date: March 26, 2019</p>
 
 
-<p>Maze Squad Site ("us", "we", or "our") operates the https://mazesquad.github.io/ website and the  mobile application (the "Service").</p>
+<p>Maze Squad Site ("us", "we", or "our") operates the https://gameoffice.github.io/mazesquad/ website and the  mobile application (the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Maze Squad Site is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Maze Squad Site is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -46,7 +46,7 @@
 
 <h2>Use of Data</h2>
     
-<p>Maze Squad Site uses the collected data for various purposes:</p>    
+<p>Maze Squad Site uses the collected data for various purposes:</p>
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -103,7 +103,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: buba@buba.com</li>
-            <li>By visiting this page on our website: https://mazesquad.github.io/</li>
-      
-        </ul>
+        <li>By email: zhelnin_andrei@mail.ru</li>
+        <li>By visiting this page on our website: https://gameoffice.github.io/mazesquad/</li>
+</ul>
